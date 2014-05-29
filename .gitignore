@@ -1,3 +1,0 @@
-logs/production.log
-builds/*
-!builds/README.md
